@@ -1,5 +1,5 @@
-A Drupal 6 Theme with Blueprint installed.
-http://blueprintcss.org/
+A Drupal 6 Theme with Bootstrap installed.
+http://twitter.github.com/bootstrap/
 
 Install:
 Add theme folder to your Drupal 'sites/all/themes/' directory. Rename folder to your theme name and change all references to "THEME_NAME" to your theme name.
